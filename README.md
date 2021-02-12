@@ -1,9 +1,15 @@
 
 ### To start the application
 
-`yarn start`
+Change into the ichor_data_vizualizer directory and execute:
 
-Runs the app in the development mode.\
+`npm install`
+
+Then star the application with:
+
+`npm start`
+
+This will run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
